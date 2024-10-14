@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DIDRegistryAppNew/static/css/main.e7638e9b.css",
+    "main.js": "/DIDRegistryAppNew/static/js/main.39b3901d.js",
+    "index.html": "/DIDRegistryAppNew/index.html",
+    "main.e7638e9b.css.map": "/DIDRegistryAppNew/static/css/main.e7638e9b.css.map",
+    "main.39b3901d.js.map": "/DIDRegistryAppNew/static/js/main.39b3901d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7638e9b.css",
+    "static/js/main.39b3901d.js"
+  ]
+}
