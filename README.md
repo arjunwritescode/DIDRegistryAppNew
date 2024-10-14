@@ -4,6 +4,11 @@
 The **DIDRegistry Face Verification App** is a web-based application designed to leverage AI/ML facial recognition technologies and blockchain's decentralized identity (DID) infrastructure. This project integrates facial biometric verification with smart contracts on the Ethereum blockchain, enabling secure user authentication and identity verification.
 
 ---
+## Demo
+
+Here is a quick 1-minute demo of the webDapp
+- https://vimeo.com/1019613611?share=copy
+
 
 ## Table of Contents
 
